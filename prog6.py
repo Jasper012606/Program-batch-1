@@ -1,0 +1,2 @@
+# A program that asks the user to input 2 numbers and prints the result when the 1st number is raised by the 2nd number
+print("Result: ", int(input("Enter a number: ")) ** int(input("Enter another number: ")))
